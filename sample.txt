@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Adding a new line
+=======
 Add a new line to main
+>>>>>>> 676742466e00a77799a2d1ec7bd10fac665253f1
